@@ -1,0 +1,2 @@
+# hospital-website
+Created a responsive hospital website using HTML, CSS, Bootstrap, JavaScript and jQuery 
